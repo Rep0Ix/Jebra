@@ -5,7 +5,6 @@ Operation guide:
     4. plugin 'mymap' has been deprecated since version 2022.1
     5. don't care about the activation time, it is a fallback license and will not expire
 
-hello
 
 JBR17:
     add these 2 lines to your vmoptions file: (for manual, without any whitespace chars)
